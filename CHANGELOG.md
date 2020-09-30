@@ -1,3 +1,6 @@
+## FINBOURNE Release: 1.4.0
+Notes: Changes the file content to be sensitive.  This prevents the contents of file being displayed during plan and apply.
+
 ## 1.4.0 (Unreleased)
 
 NOTES:
